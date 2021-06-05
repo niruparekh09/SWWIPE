@@ -297,7 +297,7 @@ ul{
     list-style-type:none;
   }
   body{
-    zoom: 200%;
+    zoom: 250%;
   }
 }
 @media (max-width: 700px){
