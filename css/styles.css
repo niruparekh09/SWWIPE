@@ -312,4 +312,13 @@ ul{
   .btn-dark{
     margin:10px 100px 10px;
   }
+  #title{
+    zoom: 67%;
+  }
+  #reviews{
+    zoom: 60%;
+  }
+  #cta{
+    zoom:55%;
+  }
 }
