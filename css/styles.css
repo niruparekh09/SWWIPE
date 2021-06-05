@@ -283,9 +283,6 @@ ul{
     margin-left: 70px;
     padding: 8px 200px;
   }
-  body{
-    zoom: 150%;
-  }
 }
 @media (max-width: 767.5px){
   .card{
@@ -295,9 +292,6 @@ ul{
   }
   .list{
     list-style-type:none;
-  }
-  body{
-    zoom: 250%;
   }
 }
 @media (max-width: 700px){
